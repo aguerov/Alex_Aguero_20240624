@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/tvWelcome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bienvenido: Usuario"
+        android:textSize="18sp"
+        android:padding="16dp" />
+
+    <Button
+        android:id="@+id/btnLogout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cerrar Sesión" />
+
+    <Button
+        android:id="@+id/btnBitcoinValues"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ver Valores de Bitcoin" />
+
+</LinearLayout>
