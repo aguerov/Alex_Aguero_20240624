@@ -32,7 +32,7 @@ El usuario puede cerrar sesión, lo que borra las credenciales almacenadas y red
 ![Pantalla de Valores de Bitcoin](Screenshot_20240624_200933.png)
 
 ## Estructura del Proyecto
-
+´´´
 Alex_Aguero_20240624/
 ├── app/
 │ ├── src/
@@ -59,7 +59,7 @@ Alex_Aguero_20240624/
 │ ├── build.gradle
 ├── README.md
 
-
+´´´
 ## Contribución
 
 Este proyecto es parte de un curso de desarrollo de aplicaciones móviles en IACC y no está abierto a contribuciones externas.
