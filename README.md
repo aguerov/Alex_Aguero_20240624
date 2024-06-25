@@ -32,34 +32,58 @@ El usuario puede cerrar sesión, lo que borra las credenciales almacenadas y red
 ![Pantalla de Valores de Bitcoin](Screenshot_20240624_200933.png)
 
 ## Estructura del Proyecto
-´´´
+
 Alex_Aguero_20240624/
+
 ├── app/
+
 │ ├── src/
+
 │ │ ├── main/
+
 │ │ │ ├── java/com/microdesarrollo/alex_aguero_20240624/
+
 │ │ │ │ ├── BitcoinValue.kt
+
 │ │ │ │ ├── BitcoinValueAdapter.kt
+
 │ │ │ │ ├── BitcoinValuesActivity.kt
+
 │ │ │ │ ├── LoginActivity.kt
+
 │ │ │ │ ├── MainActivity.kt
+
 │ │ │ │ ├── SplashScreenActivity.kt
+
 │ │ │ ├── res/
+
 │ │ │ │ ├── layout/
+
 │ │ │ │ │ ├── activity_bitcoin_values.xml
+
 │ │ │ │ │ ├── activity_login.xml
+
 │ │ │ │ │ ├── activity_main.xml
+
 │ │ │ │ │ ├── activity_splash_screen.xml
+
 │ │ │ │ │ ├── list_item_bitcoin_value.xml
+
 │ │ │ │ ├── values/
+
 │ │ │ │ │ ├── colors.xml
+
 │ │ │ │ │ ├── strings.xml
+
 │ │ │ │ │ ├── styles.xml
+
 │ ├── AndroidManifest.xml
+
 │ ├── build.gradle
+
 ├── README.md
 
-´´´
+
 ## Contribución
 
 Este proyecto es parte de un curso de desarrollo de aplicaciones móviles en IACC y no está abierto a contribuciones externas.
