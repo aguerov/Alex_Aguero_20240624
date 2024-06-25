@@ -1,4 +1,4 @@
-## Uso
+## Uso del Caso desarrollado para IACC
 
 ### SplashScreen
 
